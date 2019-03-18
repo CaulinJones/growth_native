@@ -1,0 +1,12 @@
+/Users/caulinjones/Desktop/growth_native/growthnative/growth/bin/iPhoneSimulator/Debug/growth.exe
+/Users/caulinjones/Desktop/growth_native/growthnative/growth/bin/iPhoneSimulator/Debug/growth.pdb
+/Users/caulinjones/Desktop/growth_native/growthnative/growth/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/caulinjones/Desktop/growth_native/growthnative/growth/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/caulinjones/Desktop/growth_native/growthnative/growth/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/caulinjones/Desktop/growth_native/growthnative/growth/obj/iPhoneSimulator/Debug/coremlc/_PartialAppManifest.items
+/Users/caulinjones/Desktop/growth_native/growthnative/growth/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/caulinjones/Desktop/growth_native/growthnative/growth/obj/iPhoneSimulator/Debug/optimized/
+/Users/caulinjones/Desktop/growth_native/growthnative/growth/obj/iPhoneSimulator/Debug/growth.iOS.csprojAssemblyReference.cache
+/Users/caulinjones/Desktop/growth_native/growthnative/growth/obj/iPhoneSimulator/Debug/growth.iOS.csproj.CoreCompileInputs.cache
+/Users/caulinjones/Desktop/growth_native/growthnative/growth/obj/iPhoneSimulator/Debug/growth.exe
+/Users/caulinjones/Desktop/growth_native/growthnative/growth/obj/iPhoneSimulator/Debug/growth.pdb

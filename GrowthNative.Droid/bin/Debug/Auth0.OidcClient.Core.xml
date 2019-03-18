@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Auth0.OidcClient.Core</name>
+    </assembly>
+    <members>
+        <member name="M:Auth0.OidcClient.IAuth0Client.LoginAsync(System.Object)">
+            <summary>
+            Launches a browser to log the user in.
+            </summary>
+            <param name="extraParameters">Any extra parameters that need to be passed to the authorization endpoint.</param>
+            <returns></returns>
+        </member>
+        <member name="M:Auth0.OidcClient.IAuth0Client.LogoutAsync">
+            <summary>
+            Launches a browser to log the user out and clear the Auth0 SSO Cookie
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Auth0.OidcClient.IAuth0Client.LogoutAsync(System.Boolean)">
+            <summary>
+            Launches a browser to log the user out and clear the Auth0 SSO Cookie
+            </summary>
+            <param name="federated">Indicates whether the user should also be logged out of their identity provider.</param>
+            <returns></returns>
+        </member>
+        <member name="M:Auth0.OidcClient.IAuth0Client.PrepareLoginAsync(System.Object)">
+            <summary>
+            Generates an <see cref="T:IdentityModel.OidcClient.AuthorizeState"/> containing the URL, state, nonce and code challenge which can
+            be used to redirect the user to the authorization URL, and subsequently process any response by calling
+            the <see cref="M:Auth0.OidcClient.IAuth0Client.ProcessResponseAsync(System.String,IdentityModel.OidcClient.AuthorizeState)"/> method.
+            </summary>
+            <param name="extraParameters"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Auth0.OidcClient.IAuth0Client.ProcessResponseAsync(System.String,IdentityModel.OidcClient.AuthorizeState)">
+            <summary>
+            Process the response from the Auth0 redirect URI
+            </summary>
+            <param name="data">The data containing the full redirect URI.</param>
+            <param name="state">The <see cref="T:IdentityModel.OidcClient.AuthorizeState"/> which was generated when the <see cref="M:Auth0.OidcClient.IAuth0Client.PrepareLoginAsync(System.Object)"/>
+            method was called.</param>
+            <returns></returns>
+        </member>
+        <member name="M:Auth0.OidcClient.IAuth0Client.RefreshTokenAsync(System.String)">
+            <summary>
+            Generates a new set of tokens based on a refresh token. 
+            </summary>
+            <param name="refreshToken">The refresh token which was issued during the authorization flow, or subsequent
+            calls to <see cref="M:Auth0.OidcClient.IAuth0Client.RefreshTokenAsync(System.String)"/>.</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

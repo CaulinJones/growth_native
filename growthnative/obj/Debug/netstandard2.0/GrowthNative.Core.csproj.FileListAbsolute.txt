@@ -1,0 +1,9 @@
+/Users/caulinjones/Desktop/growth_native/growthnative/GrowthNative/bin/Debug/netstandard2.0/GrowthNative.Core.deps.json
+/Users/caulinjones/Desktop/growth_native/growthnative/growthnative/bin/Debug/netstandard2.0/GrowthNative.Core.dll
+/Users/caulinjones/Desktop/growth_native/growthnative/growthnative/bin/Debug/netstandard2.0/GrowthNative.Core.pdb
+/Users/caulinjones/Desktop/growth_native/growthnative/growthnative/obj/Debug/netstandard2.0/GrowthNative.Core.csprojAssemblyReference.cache
+/Users/caulinjones/Desktop/growth_native/growthnative/growthnative/obj/Debug/netstandard2.0/GrowthNative.Core.csproj.CoreCompileInputs.cache
+/Users/caulinjones/Desktop/growth_native/growthnative/growthnative/obj/Debug/netstandard2.0/GrowthNative.Core.AssemblyInfoInputs.cache
+/Users/caulinjones/Desktop/growth_native/growthnative/growthnative/obj/Debug/netstandard2.0/GrowthNative.Core.AssemblyInfo.cs
+/Users/caulinjones/Desktop/growth_native/growthnative/growthnative/obj/Debug/netstandard2.0/GrowthNative.Core.dll
+/Users/caulinjones/Desktop/growth_native/growthnative/growthnative/obj/Debug/netstandard2.0/GrowthNative.Core.pdb

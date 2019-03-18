@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{891CB336-31EF-4D62-A157-A604D70250CB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GrowthNative.IOS/Setup.cs">
+    <Files>
+      <File FileName="GrowthNative/AppStart.cs" Line="17" Column="64" />
+      <File FileName="GrowthNative.IOS/Views/LoginView.cs" Line="15" Column="28" />
+      <File FileName="GrowthNative/App.cs" Line="1" Column="1" />
+      <File FileName="GrowthNative.IOS/Views/LoginView.xib" />
+      <File FileName="GrowthNative/ViewModels/MainViewModel.cs" Line="17" Column="1" />
+      <File FileName="GrowthNative/ViewModels/LoginViewModel.cs" Line="18" Column="1" />
+      <File FileName="GrowthNative.IOS/AppDelegate.cs" Line="12" Column="61" />
+      <File FileName="GrowthNative.IOS/Setup.cs" Line="13" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="growthnative" expanded="True">
+            <Node name="GrowthNative.Core" expanded="True">
+              <Node name="ViewModels" expanded="True" />
+            </Node>
+            <Node name="GrowthNative.IOS" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="LoginView.cs" expanded="True" />
+              </Node>
+              <Node name="Setup.cs" selected="True" />
+              <Node name="ViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GrowthNative.IOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.FF950D10-440B-42DE-8D96-78D7128F3560" HideGettingStarted="True" />
+  <MonoDevelop.Ide.ItemProperties.GrowthNative.Droid PreferredExecutionTarget="Android.Android_Accelerated_Oreo" HideGettingStarted="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/caulinjones/Desktop/growth_native/growthnative/GrowthNative.IOS/Views/LoginView.cs" relfile="GrowthNative.IOS/Views/LoginView.cs" line="20" column="1" />
+      <Breakpoint file="/Users/caulinjones/Desktop/growth_native/growthnative/growthnative/ViewModels/MainViewModel.cs" relfile="growthnative/ViewModels/MainViewModel.cs" line="17" column="1" />
+      <Breakpoint file="/Users/caulinjones/Desktop/growth_native/growthnative/growthnative/ViewModels/LoginViewModel.cs" relfile="growthnative/ViewModels/LoginViewModel.cs" line="18" column="1" />
+      <Breakpoint file="/Users/caulinjones/Desktop/growth_native/growthnative/GrowthNative.IOS/AppDelegate.cs" relfile="GrowthNative.IOS/AppDelegate.cs" line="21" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
